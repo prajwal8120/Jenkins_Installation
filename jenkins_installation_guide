@@ -28,6 +28,6 @@
 
 6. sudo apt-get update
 
-7.sudo apt-get install jenkins -y
+7. sudo apt-get install jenkins -y
 
 -------------------------------------------------------------------------------
